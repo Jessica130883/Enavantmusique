@@ -1,5 +1,16 @@
-/* ACCUEIL*/
+/*ACCUEIL*/
 img {
     height: 500px;
     width: 700px;
+}
+
+/*FOOTER*/
+
+/*BIO*/
+
+/*FOOTER*/
+
+footer {
+    height: 90px;
+    background-color: aquamarine;
 }
