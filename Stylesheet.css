@@ -18,16 +18,25 @@ img {
     margin-top: 80px;
     margin-bottom: 80px;
 }
-
-/*FOOTER*/
-
 /*BIO*/
 
 /*FOOTER*/
 
 footer {
-    height: 90px;
+    height: 150px;
     background-color: aquamarine;
+}
+.liensContact, .liensReseaux, .nomAssociation {
+    text-align: center;
+    margin-top: 5px;
+    padding-top: 10px;
+}
+.mentionsLegales {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+#contact, #mentions, #questions {
+    color: black;
 }
 
 /*CONTACT*/
