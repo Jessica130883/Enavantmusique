@@ -81,6 +81,23 @@ img {
     padding-left: 600px;
 }
 
+/*ACTUALITÉS*/
+.titresActualites {
+    text-align: center;
+}
+#event1 {
+    border: solid black 2px;
+}
+#event2 {
+    border: solid black 2px;
+}
+#event3 {
+    border: solid black 2px;
+}
+#event4 {
+    border: solid black 2px;
+}
+
 /*FOOTER*/
 
 footer {
