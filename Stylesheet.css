@@ -86,16 +86,39 @@ img {
     text-align: center;
 }
 #event1 {
-    border: solid black 2px;
+    border: solid black 1px;
+    background-color: blueviolet;
+    width: 550px;
+    height: 600px;
+    margin-left: 150px;
+    margin-top: 100px;
+    
 }
 #event2 {
-    border: solid black 2px;
+    border: solid black 1px;
+    background-color: aquamarine;
+    width: 550px;
+    height: 600px;
+    margin-left: 150px;
+    margin-top: 100px;
 }
 #event3 {
-    border: solid black 2px;
+    border: solid black 1px;
+    background-color: pink;
+    width: 550px;
+    height: 600px;
+    margin-left: 150px;
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
 #event4 {
-    border: solid black 2px;
+    border: solid black 1px;
+    background-color: goldenrod;
+    width: 550px;
+    height: 600px;
+    margin-left: 150px;
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
 
 /*FOOTER*/
