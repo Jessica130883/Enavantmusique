@@ -85,6 +85,22 @@ img {
 .titresActualites {
     text-align: center;
 }
+.chorale {
+    height: 100px;
+    width: 100px;
+}
+.guitarePiano {
+    height: 100px;
+    width: 150px;
+}
+.musiciens {
+    height: 100px;
+    width: 150px;
+}
+.atelier {
+    height: 100px;
+    width: 150px;
+}
 #event1 {
     border: solid black 1px;
     background-color: blueviolet;
