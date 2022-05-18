@@ -1,11 +1,15 @@
 /*ACCUEIL*/
 img {
     height: 530px;
-    width: 1500px;
+    width: 1438px;
     display: block;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 50px;
+}
+.imageAccueil2 {
+    height: 200px;
+    width: 300Px;
 }
 .bienvenue {
     text-align: center;
