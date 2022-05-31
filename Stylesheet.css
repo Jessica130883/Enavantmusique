@@ -37,7 +37,7 @@ img {
 
 }
 .titreEquipe {
-
+    font-size: 30px;
     padding-left: 200px;
 }
 .photoEquipe, .photoHistoire, .photoProjet {
