@@ -1,3 +1,9 @@
+/*NAVBAR*/
+.navbar-brand {
+    margin-left: 8px;
+    font-weight: bold;
+}
+
 /*ACCUEIL*/
 img {
     height: 530px;
@@ -31,7 +37,7 @@ img {
 
 }
 .titreEquipe {
-    background-color: blueviolet;
+
     padding-left: 200px;
 }
 .photoEquipe, .photoHistoire, .photoProjet {
@@ -44,7 +50,7 @@ img {
     margin-left: 150px;
 }
 .titreHistoire {
-    background-color: brown;
+
     padding-right: 240px;
     margin-top: 350px;
 }
@@ -59,14 +65,14 @@ img {
 }
 .texteHistoire {
     text-align: left justify;
-    background-color: yellow;
+    
     margin-top: 50px;
     margin-right: 150px;
     padding-right: 500px;
     padding-left: 100px;
 }
 .titreProjet {
-    background-color: red;
+    
     padding-left: 250px;
     margin-top: 300px;
 }
@@ -78,7 +84,7 @@ img {
 }
 .texteProjet {
     text-align: right justify;
-    background-color: pink;
+    
     margin-top: 50px;
     margin-bottom: 350px;
     padding-right: 50px;
