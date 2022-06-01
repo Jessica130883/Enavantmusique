@@ -27,6 +27,7 @@ img {
 .bienvenue {
     text-align: center;
     margin-top: 80px;
+    color: #D60055;
 }
 .texteAccueil {
     justify-content: justify;
@@ -47,6 +48,7 @@ img {
 .titreEquipe {
     font-size: 30px;
     padding-left: 200px;
+    color: #D60055;
 }
 .photoEquipe, .photoHistoire, .photoProjet {
     height: 300px;
@@ -62,6 +64,7 @@ img {
 
     padding-right: 240px;
     margin-top: 350px;
+    color: #D60055;
 }
 .histoire {
     text-align: right;
@@ -84,6 +87,7 @@ img {
     
     padding-left: 250px;
     margin-top: 300px;
+    color: #D60055;
 }
 .photoProjet {
     float: left;
@@ -165,7 +169,8 @@ h3 {
 
 footer {
     height: 150px;
-    background-color: aquamarine;
+    width: 1439px;
+    background-color: #D60055;
 }
 .liensContact, .liensReseaux, .nomAssociation {
     text-align: center;
