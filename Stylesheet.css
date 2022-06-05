@@ -189,11 +189,24 @@ footer {
 }
 
 /*CONTACT*/
+.contact {
+    color: grey ;
+    text-shadow: #5B0527 1px 1px 1px;
+    opacity: 0.6;
+}
 #numeroTel {
     font-weight: bold;
+    color: grey;
+    text-shadow: #5B0527 1px 1px 1px;
+    font-size: 20px;
+    opacity: 0.6;
 }
 #adresseMail {
     font-weight: bold;
+    color: grey;
+    text-shadow: #5B0527 1px 1px 1px;
+    font-size: 20px;
+    opacity: 0.6;
 }
 #name {
     border-radius: 5px;
@@ -215,6 +228,7 @@ textarea {
     margin-top: 20px;
     border-radius: 5px;
     background-color: grey;
+    opacity: 0.8;
 }
 .infosContact {
     text-align: center;
