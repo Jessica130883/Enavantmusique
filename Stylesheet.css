@@ -187,24 +187,24 @@ h3 {
 }
 
 /*FOOTER*/
-
-footer {
-    height: 150px;
-    width: 1439px;
-    background-color: #D60055;
-}
-.liensContact, .liensReseaux, .nomAssociation {
+.nousContacter, .mentionsLegales, .faq {
     text-align: center;
-    margin-top: 5px;
-    padding-top: 10px;
+    color: white;
 }
-.mentionsLegales {
-    margin-left: 5px;
-    margin-right: 5px;
+.lienFooter {
+    color: white;
 }
-#contact, #mentions, #questions {
-    color: black;
+div.container {
+    width: auto;
 }
+
+
+    
+
+    
+
+
+
 
 /*CONTACT*/
 .contact {
