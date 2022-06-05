@@ -105,6 +105,9 @@ img {
 }
 
 /*ACTUALITÉS*/
+.actualites {
+    color: #D60055;
+}
 .titresActualites {
     text-align: center;
 }
