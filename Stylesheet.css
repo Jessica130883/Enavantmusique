@@ -118,6 +118,7 @@ img {
 }
 
 /*ACTUALITÉS*/
+
 .actualites {
     color: #D60055;
 }
@@ -144,14 +145,16 @@ img {
     border: solid black 1px;
     width: 550px;
     height: 600px;
-    margin-left: 150px;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 100px;  
 }
 #event2 {
     border: solid black 1px;
     width: 550px;
     height: 600px;
-    margin-left: 150px;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 100px;
     
 }
@@ -159,7 +162,8 @@ img {
     border: solid black 1px;
     width: 550px;
     height: 600px;
-    margin-left: 150px;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 100px;
     margin-bottom: 100px;
 }
@@ -167,7 +171,8 @@ img {
     border: solid black 1px;
     width: 550px;
     height: 600px;
-    margin-left: 150px;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 100px;
     margin-bottom: 100px;
     
