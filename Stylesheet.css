@@ -1,3 +1,11 @@
+html, body {
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+
+}
 /*NAVBAR*/
 .navbar-brand {
     margin-left: 8px;
@@ -9,20 +17,25 @@
 }
 .navbar-light {
     height: 200px;
+    width: auto;
 }
 
 /*ACCUEIL*/
 img {
     height: 600px;
-    width: 1439px;
+    width: 100%;
     display: block;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 50px;
 }
+#photoAccueil {
+    height: 600px;
+    width: 1420px;
+}
 .imageAccueil2 {
     height: 200px;
-    width: 300Px;
+    width: 300px;
 }
 .bienvenue {
     text-align: center;
