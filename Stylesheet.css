@@ -23,7 +23,9 @@ html, body {
     height: 200px;
     width: auto;
 }
-
+a .nav-link:hover {
+    color:#5B0527;
+}
 
 /*ACCUEIL*/
 img {
