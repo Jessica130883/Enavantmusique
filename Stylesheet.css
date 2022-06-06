@@ -23,9 +23,7 @@ html, body {
     height: 200px;
     width: auto;
 }
-a .nav-link:hover {
-    color:#5B0527;
-}
+
 
 /*ACCUEIL*/
 img {
@@ -133,24 +131,24 @@ img {
     text-align: center;
 }
 .chorale {
-    height: 100px;
-    width: 100px;
+    height: 70px;
+    width: 90px;
 }
 .guitarePiano {
-    height: 100px;
-    width: 150px;
+    height: 70px;
+    width: 90px;
 }
 .musiciens {
-    height: 100px;
-    width: 150px;
+    height: 70px;
+    width: 90px;
 }
 .atelier {
-    height: 100px;
-    width: 150px;
+    height: 70px;
+    width: 90px;
 }
 #event1 {
     border: solid black 1px;
-    width: 550px;
+    width: 35%;
     height: 600px;
     margin-left: auto;
     margin-right: auto;
@@ -158,7 +156,7 @@ img {
 }
 #event2 {
     border: solid black 1px;
-    width: 550px;
+    width: 35%;
     height: 600px;
     margin-left: auto;
     margin-right: auto;
@@ -167,7 +165,7 @@ img {
 }
 #event3 {
     border: solid black 1px;
-    width: 550px;
+    width: 35%;
     height: 600px;
     margin-left: auto;
     margin-right: auto;
@@ -176,7 +174,7 @@ img {
 }
 #event4 {
     border: solid black 1px;
-    width: 550px;
+    width: 35%;
     height: 600px;
     margin-left: auto;
     margin-right: auto;
@@ -235,30 +233,22 @@ footer {
 .lienFooter:hover {
     color:#5B0527;
 }
-
-
-
-
-
-
-
-
 /*CONTACT*/
 .contact {
-    color: grey ;
+    color: #D60055 ;
     text-shadow: #5B0527 1px 1px 1px;
     opacity: 0.6;
 }
 #numeroTel {
     font-weight: bold;
-    color: grey;
+    color: #D60055;
     text-shadow: #5B0527 1px 1px 1px;
     font-size: 20px;
     opacity: 0.6;
 }
 #adresseMail {
     font-weight: bold;
-    color: grey;
+    color: #D60055;
     text-shadow: #5B0527 1px 1px 1px;
     font-size: 20px;
     opacity: 0.6;
