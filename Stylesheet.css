@@ -4,7 +4,11 @@ html, body {
     width: 100%;
     height: 100%;
     overflow-x: hidden;
+    display: table;
 
+}
+.container {
+    height: auto;
 }
 /*NAVBAR*/
 .navbar-brand {
@@ -187,20 +191,11 @@ h3 {
 }
 
 /*FOOTER*/
-.nousContacter, .mentionsLegales, .faq {
-    text-align: center;
-    color: white;
+footer {
+    display: table-row;
+    height: 1px;
+    background-color:#D60055;
 }
-.lienFooter {
-    color: white;
-}
-div.container {
-    width: auto;
-}
-
-
-    
-
     
 
 
