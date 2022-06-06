@@ -24,6 +24,7 @@ html, body {
     width: auto;
 }
 
+
 /*ACCUEIL*/
 img {
     height: 600px;
@@ -196,7 +197,46 @@ footer {
     height: 1px;
     background-color:#D60055;
 }
+.containerFooter {
+    text-align: center;
+    color: white;
+}
+.iconeFacebook, .iconeInstagram, .iconeYoutube {
+    display: inline;
+    font-size: 25px;  
+
+}
+.iconeInstagram {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.contactFooter {
+    margin-top: 20px;
+    margin-bottom: 10px;
     
+}
+.copyright {
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+.contacter, .mentionsLegales, .faq {
+    display: inline;
+    
+}
+.mentionsLegales {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.lienFooter {
+    color: white;
+}
+.lienFooter:hover {
+    color:#5B0527;
+}
+
+
+
+
 
 
 
