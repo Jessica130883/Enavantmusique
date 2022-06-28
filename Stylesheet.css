@@ -27,7 +27,7 @@ html, body {
 
 /*ACCUEIL*/
 img {
-    height: 600px;
+    height: 450px;
     width: 100%;
     display: block;
     margin-left: auto;
@@ -158,6 +158,12 @@ h3 {
     text-align: center;
     padding-top: 30px;
     padding-bottom: 20px;
+    color: #D60055;
+    text-shadow: #5B0527 1px 1px 1px;
+    opacity: 0.6;
+}
+.imageSecond {
+    margin-top: 40px;
 }
 
 /*FOOTER*/
