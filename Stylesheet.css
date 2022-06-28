@@ -126,6 +126,7 @@ img {
 
 .actualites {
     color: #D60055;
+    margin-bottom: 70px;
 }
 .titresActualites {
     text-align: center;
@@ -146,41 +147,9 @@ img {
     height: 70px;
     width: 90px;
 }
-#event1 {
-    border: solid black 1px;
-    width: 35%;
+.event {
+    border: dashed #5B0527 1px;
     height: 600px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 100px;  
-}
-#event2 {
-    border: solid black 1px;
-    width: 35%;
-    height: 600px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 100px;
-    
-}
-#event3 {
-    border: solid black 1px;
-    width: 35%;
-    height: 600px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 100px;
-    margin-bottom: 100px;
-}
-#event4 {
-    border: solid black 1px;
-    width: 35%;
-    height: 600px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 100px;
-    margin-bottom: 100px;
-    
 }
 h1 {
     padding-top: 50px;
@@ -196,6 +165,7 @@ footer {
     display: table-row;
     height: 1px;
     background-color:#D60055;
+    
 }
 .containerFooter {
     text-align: center;
