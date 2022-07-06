@@ -70,6 +70,7 @@ img {
     font-size: 30px;
     padding-left: 200px;
     color: #D60055;
+    
 }
 .photoEquipe, .photoHistoire, .photoProjet {
     height: 300px;
@@ -97,8 +98,7 @@ img {
     margin-right: 150px;
 }
 .texteHistoire {
-    text-align: left justify;
-    
+    text-align: justify; 
     margin-top: 50px;
     margin-right: 150px;
     padding-right: 500px;
@@ -117,8 +117,7 @@ img {
     margin-top: 30px;
 }
 .texteProjet {
-    text-align: right justify;
-    
+    text-align: justify;
     margin-top: 50px;
     margin-bottom: 350px;
     padding-right: 50px;
