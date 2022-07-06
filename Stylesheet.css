@@ -7,7 +7,7 @@ html, body {
     display: table;
 
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 874px) {
     #photo-banner {
         display: none;
     }
@@ -16,7 +16,17 @@ html, body {
     }
     #event-border1, #event-border2, #event-border3, #event-border4 {
         border: none;
-    }   
+    }
+    #image-bio1, #image-bio2, #image-bio3 {
+        display: none;
+    }  
+    #paragraphe-equipe, #paragraphe-histoire, #paragraphe-projet {
+        text-align: center;
+    } 
+    .titreEquipe, .titreHistoire, .titreProjet {
+        text-align: center;
+        padding: none;
+    }
     
 }
 .container {
