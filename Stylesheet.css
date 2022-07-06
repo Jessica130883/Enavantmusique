@@ -7,7 +7,18 @@ html, body {
     display: table;
 
 }
-
+@media screen and (max-width: 600px) {
+    #photo-banner {
+        display: none;
+    }
+    #image-bottom {
+        display: none;
+    }
+    #event-border1, #event-border2, #event-border3, #event-border4 {
+        border: none;
+    }   
+    
+}
 .container {
     height: auto;
 }
@@ -156,7 +167,7 @@ img {
 h1 {
     padding-top: 50px;
 }
-h3 {
+.event-actu {
     text-align: center;
     padding-top: 30px;
     padding-bottom: 20px;
