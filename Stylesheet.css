@@ -7,6 +7,15 @@ html, body {
     display: table;
 
 }
+h1 {
+    font-family: 'Merriweather', serif;
+}
+h2 {
+    font-family: 'Cormorant', serif;
+}
+p {
+    font-family: 'Imprima', sans-serif;
+}
 @media screen and (max-width: 874px) {
     #photo-banner {
         display: none;
