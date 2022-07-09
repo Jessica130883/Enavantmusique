@@ -7,13 +7,13 @@ html, body {
     display: table;
 
 }
-h1 {
+h1, nav {
     font-family: 'Merriweather', serif;
 }
 h2 {
     font-family: 'Cormorant', serif;
 }
-p {
+p, i, button {
     font-family: 'Imprima', sans-serif;
 }
 @media screen and (max-width: 874px) {
