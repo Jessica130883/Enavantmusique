@@ -94,6 +94,9 @@ img {
     text-align: justify;
 }
 /*BIO*/
+.equipe {
+    margin-top: 50px;
+}
 .texteEquipe {
     text-align: justify;
     padding-right: 50px;
