@@ -51,14 +51,16 @@ p, i, button {
     font-weight: bold;
 }
 .logo_image {
-    height: 200px;
-    width: 200px;
+    height: 160px;
+    width: 180px;
 }
 .navbar-light {
     height: 200px;
     width: auto;
 }
-
+.navbar {
+    font-size: 17px;
+}
 
 /*ACCUEIL*/
 img {
