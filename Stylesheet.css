@@ -20,13 +20,17 @@ html, body {
     #image-bio1, #image-bio2, #image-bio3 {
         display: none;
     }  
-    #paragraphe-equipe, #paragraphe-histoire, #paragraphe-projet {
-        text-align: center;
-    } 
-    .titreEquipe, .titreHistoire, .titreProjet {
-        text-align: center;
-        padding: none;
-    }
+  #title-equipe, #title-histoire, #title-projet {
+    text-align: center;
+    padding-left: none;
+    padding-right: none;
+  }
+  #paragraphe-equipe, #paragraphe-histoire, #paragraphe-projet {
+    text-align: center;
+    padding-right: none;
+    padding-left: none;
+    margin-right: none;
+  }
     
 }
 .container {
