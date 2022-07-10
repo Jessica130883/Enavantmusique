@@ -4,7 +4,7 @@ html, body {
     width: 100%;
     height: 100%;
     overflow-x: hidden;
-    display: table;
+    
 
 }
 h1, nav {
@@ -16,7 +16,7 @@ h2 {
 p, i, button {
     font-family: 'Imprima', sans-serif;
 }
-@media screen and (max-width: 874px) {
+@media screen and (max-width: 768px) {
     #photo-banner {
         display: none;
     }
@@ -29,17 +29,9 @@ p, i, button {
     #image-bio1, #image-bio2, #image-bio3 {
         display: none;
     }  
-  #title-equipe, #title-histoire, #title-projet {
+   #title-equipe, #title-projet {
     text-align: center;
-    padding-left: none;
-    padding-right: none;
-  }
-  #paragraphe-equipe, #paragraphe-histoire, #paragraphe-projet {
-    text-align: center;
-    padding-right: none;
-    padding-left: none;
-    margin-right: none;
-  }
+   }
     
 }
 .container {
@@ -209,19 +201,27 @@ h1 {
 
 /*FOOTER*/
 footer {
-    display: table-row;
-    height: 1px;
-    background-color:#D60055;
+    position: bottom;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #D60055;
+    height: 200px;
+    width: 100vw;
+    padding-top: 40px;
+    color: #fff;
     
 }
-.containerFooter {
+.footer-content {
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
     text-align: center;
-    color: white;
 }
+
 .iconeFacebook, .iconeInstagram, .iconeYoutube {
     display: inline;
     font-size: 25px;  
-
 }
 .iconeInstagram {
     margin-left: 5px;
