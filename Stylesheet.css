@@ -30,10 +30,10 @@ p, i, button {
         display: none;
     }
     
-   #title-equipe, #title-projet {
+   #title-equipe {
     text-align: center;
     padding-left: 0;
-    margin-top: 80px;
+    margin-top: 140px;
     
    }
    #title-histoire {
@@ -41,21 +41,27 @@ p, i, button {
     text-align: center;
     margin-top: 80px;
    }
-    #paragraphe-equipe, #paragraphe-histoire, #paragraphe-projet {
-    padding-right: 0;
+   #title-projet {
+    text-align: center;
     padding-left: 0;
-    margin-left: 0;
-    margin-top: 0;
-    text-align: center;   
+    margin-top: 80px;
+   }
+    #paragraphe-equipe, #paragraphe-histoire, #paragraphe-projet {
+    padding-right: 30px;
+    padding-left: 30px;
+    margin-left: 65px;
+    margin-top: 65px;
+    text-align: center;  
 }
 #paragraphe-projet {
-    margin-bottom: 80px;
+    margin-bottom: 140px;
 }
 .texteHistoire {
     margin-right: 0;
     text-align: justify;
 }
 }
+
 .container {
     height: auto;
 }
