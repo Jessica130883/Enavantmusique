@@ -28,11 +28,33 @@ p, i, button {
     }
     #image-bio1, #image-bio2, #image-bio3 {
         display: none;
-    }  
+    }
+    
    #title-equipe, #title-projet {
     text-align: center;
-   }
+    padding-left: 0;
+    margin-top: 80px;
     
+   }
+   #title-histoire {
+    padding-right: 0;
+    text-align: center;
+    margin-top: 80px;
+   }
+    #paragraphe-equipe, #paragraphe-histoire, #paragraphe-projet {
+    padding-right: 0;
+    padding-left: 0;
+    margin-left: 0;
+    margin-top: 0;
+    text-align: center;   
+}
+#paragraphe-projet {
+    margin-bottom: 80px;
+}
+.texteHistoire {
+    margin-right: 0;
+    text-align: justify;
+}
 }
 .container {
     height: auto;
@@ -127,13 +149,17 @@ img {
     width: 25%;
     margin-top: 40px;
     margin-right: 150px;
+    margin-left: 40px;
 }
 .texteHistoire {
     text-align: justify; 
     margin-top: 50px;
-    margin-right: 150px;
     padding-right: 500px;
     padding-left: 100px;
+}
+.section-histoire {
+    margin-right: 50px;
+    
 }
 .titreProjet {
     
@@ -144,7 +170,7 @@ img {
 .photoProjet {
     float: left;
     width: 25%;
-    margin-left: 150px;
+    margin-left: 190px;
     margin-top: 30px;
 }
 .texteProjet {
